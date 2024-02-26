@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning :-  ReactJS <br><br>🎯 Goals: ... To become a proficient full-stack developer and contribute to open-source projects</p>
+<p align="left">📚 I'm currently learning :-  ReactJS <br><br>🎯 Goals :-  To become a proficient full-stack developer and contribute to open-source projects</p>
 
 ###
 
